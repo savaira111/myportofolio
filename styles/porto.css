@@ -141,9 +141,9 @@ nav ul {
   font-size: 2rem;
 }
 
-.logo img {
-  width: 150px; /* Diperkecil dari sebelumnya */
-            height: auto;
+ .logo img {
+    width: 120px; /* Sesuaikan ukuran logo */
+    height: auto;
 }
 
 /* Navigation Menu */
