@@ -142,9 +142,9 @@ nav ul {
 }
 
  .logo img {
-    width: 120px;
+    width: 50px;
     max-width: 100%; /* Agar responsif */
-    height: auto;
+    height: 50px;
 }
 
 
