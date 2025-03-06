@@ -143,7 +143,6 @@ nav ul {
 
  .logo img {
     width: 50px;
-    max-width: 100%; /* Agar responsif */
     height: 50px;
 }
 
