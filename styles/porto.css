@@ -141,8 +141,9 @@ nav ul {
   font-size: 2rem;
 }
 
-.logo a {
-  color: var(--primaryTextColor);
+.logo img {
+  width: 150px; /* Diperkecil dari sebelumnya */
+            height: auto;
 }
 
 /* Navigation Menu */
