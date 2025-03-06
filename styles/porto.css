@@ -142,9 +142,11 @@ nav ul {
 }
 
  .logo img {
-    width: 120px; /* Sesuaikan ukuran logo */
+    width: 120px;
+    max-width: 100%; /* Agar responsif */
     height: auto;
 }
+
 
 /* Navigation Menu */
 nav ul li {
